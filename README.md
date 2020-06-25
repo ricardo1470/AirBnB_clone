@@ -1,4 +1,4 @@
-> # <a href="url"><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200625%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200625T050205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f3bfbdfe1eaf9c7aa22b1c5be9cfaca14366cc7799d8e36d29facf2a202e38d7" align="middle" width="160" height="60"></a> 0x00. AirBnB clone - The console
+> # <a href="url"><img src="https://camo.githubusercontent.com/9ebbf60e208b031d4dcf7db6ffc19fe0339d0ff3/68747470733a2f2f692e6962622e636f2f64354e38354e682f68626e622e706e67" align="middle" width="160" height="60"></a> 0x00. AirBnB clone - The console
 ---
 > ## Table of Contents
 
@@ -61,8 +61,9 @@ adicionar texto de uso
 ---
 
 ## License
-*<a href="url"><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200625%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200625T050205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f3bfbdfe1eaf9c7aa22b1c5be9cfaca14366cc7799d8e36d29facf2a202e38d7" align="middle" width="160" height="60"></a>`AirBnB clone - The console` is open source and therefore free to download and use without permission.*
+*<a href="url"><img src="https://camo.githubusercontent.com/9ebbf60e208b031d4dcf7db6ffc19fe0339d0ff3/68747470733a2f2f692e6962622e636f2f64354e38354e682f68626e622e706e67" align="middle" width="160" height="60"></a>`AirBnB clone - The console` is open source and therefore free to download and use without permission.*
 
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
 
 ---
+
