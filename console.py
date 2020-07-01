@@ -128,7 +128,7 @@ class HBNBCommand(cmd.Cmd):
 
     def do_update(self, line):
         """ Updates an instance based on the class name and id
-         by adding or updating attribute. """
+ by adding or updating attribute. """
 
         args = shlex.split(line)
         all_instances = models.storage.all()
@@ -159,6 +159,28 @@ class HBNBCommand(cmd.Cmd):
 
             else:
                 print("** class doesn't exist **")
+
+    def default(self, line):
+        """ default method in case of no valid arguments """
+
+        args = line.split('.')
+        if len(args) > 1 and args[0] in class_name:
+            if args[1] == 'all()':
+                self.do_all(args[0])
+
+            if args[1] == 'count()':
+                count = 0
+                all_instances = models.storage.all()
+
+                for k, v in all_instances.items():
+                    search = k.split('.')
+
+                    if search[0] == args[0]:
+                        count += 1
+                print("{}".format(count))
+
+        else:
+            cmd.Cmd.default(self, line)
 
 
 if __name__ == "__main__":
