@@ -6,5 +6,5 @@ from models.base_model import BaseModel
 class Review(BaseModel):
     """ init class Review """
     place_id = ""
-    useer_id = ""
+    user_id = ""
     text = ""
