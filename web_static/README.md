@@ -25,7 +25,7 @@
 ---
 
 ## License
-*<a href="url"><img src="https://camo.githubusercontent.com/9ebbf60e208b031d4dcf7db6ffc19fe0339d0ff3/68747470733a2f2f692e6962622e636f2f64354e38354e682f68626e622e706e67" align="middle" width="160" height="60"></a>`AirBnB clone - The console` is open source and therefore free to download and use without permission.*
+*<a href="url"><img src="https://camo.githubusercontent.com/9ebbf60e208b031d4dcf7db6ffc19fe0339d0ff3/68747470733a2f2f692e6962622e636f2f64354e38354e682f68626e622e706e67" align="middle" width="160" height="60"></a>`AirBnB clone - Web static` is open source and therefore free to download and use without permission.*
 
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
 
